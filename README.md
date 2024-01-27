@@ -6,4 +6,4 @@ So, this is a simple text based game that has a simple mechanic, like, you can c
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The content of this project is licensed under the [MIT License
+The content of this project is licensed under the [MIT License]
